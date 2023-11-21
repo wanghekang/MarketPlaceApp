@@ -2,6 +2,7 @@
   "apps":
   [
     {
+      "appId": "com.xinhuotech.markplaceapp",
       "root": "ios",
       "iosPath": "App"
     }
