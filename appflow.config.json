@@ -2,7 +2,7 @@
   "apps":
   [
     {
-      "iosPath": "ios/App/App.xcodeproj"
+      "iosPath": "ios/App"
     }
   ]
 }
