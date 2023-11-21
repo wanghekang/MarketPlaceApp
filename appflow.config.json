@@ -2,7 +2,7 @@
   "apps":
   [
     {
-      "iosPath": "ios/App"
+      "iosPath": "/ios/App"
     }
   ]
 }
