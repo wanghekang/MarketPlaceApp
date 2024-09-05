@@ -3,7 +3,8 @@
   [
     {
       "appId": "4e28a746",
-      "iosPath": "ios/App"
+      "name": "MarketPlaceApp"
+     /* "iosPath": "ios/App"*/
     }
   ]
 }
